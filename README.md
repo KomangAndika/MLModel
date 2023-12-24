@@ -9,3 +9,5 @@ Welcome to the Machine Learning Model Collection repository! This project serves
 - Continuous updates and additions
 
 Feel free to browse through the codebase, experiment with different models, and contribute to the growing collection. Your contributions are highly appreciated as we work together to build a valuable resource for the machine learning community.
+
+The code is from my journey in Python for Data Science and Machine Learning Bootcamp from Udemy.
